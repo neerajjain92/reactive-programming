@@ -1,4 +1,4 @@
-package org.example.rxjava;
+package com.neeraj.reactivex.rxjava.observables.basic;
 
 import io.reactivex.Observable;
 import io.reactivex.disposables.Disposable;

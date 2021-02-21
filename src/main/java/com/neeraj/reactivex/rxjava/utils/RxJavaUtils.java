@@ -1,4 +1,4 @@
-package org.example.rxjava;
+package com.neeraj.reactivex.rxjava.utils;
 
 import lombok.SneakyThrows;
 

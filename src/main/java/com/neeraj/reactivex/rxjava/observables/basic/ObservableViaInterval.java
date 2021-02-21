@@ -1,5 +1,6 @@
-package org.example.rxjava;
+package com.neeraj.reactivex.rxjava.observables.basic;
 
+import com.neeraj.reactivex.rxjava.utils.RxJavaUtils;
 import io.reactivex.Observable;
 import io.reactivex.observables.ConnectableObservable;
 

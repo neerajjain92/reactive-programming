@@ -1,4 +1,4 @@
-package org.example.rxjava;
+package com.neeraj.reactivex.rxjava.observers;
 
 import io.reactivex.Observable;
 import io.reactivex.Observer;
